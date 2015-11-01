@@ -16,3 +16,5 @@ For demonstration purposes, I picked 5 scales (a to e). You can add or remove so
 ## Improvements to be made
 - Transitions are a bit messy
 - Lines should evolve from the left to the right axis smoothly and all at the same time
+
+![Alt text](https://github.com/agatheblues/d3-parallel-coordinates/blob/master/parallel-coordinates/parallels.gif "A gif that shows the different controls")
